@@ -6,7 +6,7 @@ Dieses GitHub-Profil dient als mein wachsendes **Bewerbungs-Portfolio**: Über d
 
 ---
 
-#### Aktuelles Hauptprojekt: [CarDuel](https://devdinges.github.io/CarDuel-Website/)
+#### Aktuelles Hauptprojekt: [CarDuel](https://devdinges.github.io/CarDuel/)
 Meine erste vollständig eigenständig konzipierte Web-Applikation – eine **interaktive Head-to-Head-Fahrzeugvergleichs-Plattform** mit gewichtbarem **Prioritäten-Equalizer**, **Index-Klassifizierung (S+ bis F)**, Mehrsprachigkeit und Theme-System. Aktuell mein zentrales Entwicklungsprojekt, an dem ich täglich arbeite und neue Features ausrolle.
 
 **[Live-Demo ansehen](https://devdinges.github.io/CarDuel/)** | **[Zum Repository](https://github.com/DevDinges/CarDuel)**
