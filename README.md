@@ -1,4 +1,4 @@
-### Hallo, mein Name ist Daniel D.
+### Hallo, mein Name ist Daniel.
 
 Auf der Suche nach einem **Praxispartner für ein duales Studium im Bereich der Informatik** (alternativ eine Ausbildung als Fachinformatiker für Anwendungsentwicklung) ab **2027** – mit Fokus auf **Full-Stack-Webentwicklung** und **Agentic AI Workflows** - **offen für weitere Fachbereiche**.
 
